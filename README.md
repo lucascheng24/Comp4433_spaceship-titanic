@@ -15,5 +15,3 @@ Dataset:
 | 6  |  rmNaNDate_01.csv        |   `preprocess_dataset\rmNaNDate_01.csv`           |   -   remove the numeric NaN data (remaining null columns: HomePlanet, Cabin, Destination & Name. can drop them)
 
 
-
-231
