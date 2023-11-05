@@ -23,5 +23,11 @@ A group project of comp4433, Data Mining
 |----|--------------------------|-------------------------------------------------------|-------|-----------------|
 | 1. | Decision Tree            | `classifers\decisionTree\DT_01.ipynb`                 |0.77484|                 |
 | 2. | Logistic Regression      | `classifers\logisticRegression\LogisticReg_01.ipynb`  |0.77811|                 |
-| 3. |                          |                                                       |       |                 |
+| 3. | KNN                      | `classifers\kNN\Assignment 5KNN.ipynb`                |0.75964|                 |
+| 4. | RandomForest             | `classifers/RandomForest/randomForest.ipynb`          |0.79354|                 |
+| 5. | SVM                      | `classifers/svm/svm.ipynb`                            |0.78021|                 |
+| 6. |                          |                                                       |       |                 |
+| 7. |                          |                                                       |       |                 |
+|    |                          |                                                       |       |                 |
+|    |                          |                                                       |       |                 |
 
