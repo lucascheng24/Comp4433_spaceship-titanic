@@ -1378,7 +1378,7 @@ PassengerId,Transported
 2955_01,False
 2957_01,True
 2963_01,True
-2967_01,False
+2967_01,True
 2973_01,False
 2974_01,False
 2976_01,True
@@ -2604,7 +2604,7 @@ PassengerId,Transported
 5690_01,False
 5691_01,True
 5694_01,True
-5697_01,True
+5697_01,False
 5699_01,False
 5703_01,False
 5708_01,True
