@@ -26,7 +26,7 @@ A group project of comp4433, Data Mining
 | 3. | KNN                      | `classifers\kNN\Assignment 5KNN.ipynb`                |0.75964|                 |
 | 4. | RandomForest             | `classifers/RandomForest/randomForest.ipynb`          |0.79354|                 |
 | 5. | SVM                      | `classifers/svm/svm.ipynb`                            |0.78021|                 |
-| 6. |                          |                                                       |       |                 |
+| 6. | RandomForest(ver3)       | `classifers\RandomForest\randomForest_03.ipynb`       |0.80173|                 |
 | 7. |                          |                                                       |       |                 |
 |    |                          |                                                       |       |                 |
 |    |                          |                                                       |       |                 |
